@@ -1,0 +1,11 @@
+{
+    "name": "root/upload-helper",
+    "description": "A class that helps to upload files easily",
+    "authors": [
+        {
+            "name": "gspaiva",
+            "email": "gabriel_silvapaiva@hotmail.com"
+        }
+    ],
+    "require": {}
+}
