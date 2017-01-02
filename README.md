@@ -6,5 +6,5 @@ $supportedFormats = array('png','jpg');<br>
 $maxFileSize = 300000;
 $destination = "your-destination-folder";
 
-$uploader = new UploadHelper($maxFileSize,$supportedFormats,$destination);
+$uploader = new UploadHelper($maxFileSize,$supportedFormats,$destination);<br>
 $uploader->uploadFile($_FILES['your-file-name-input']);
